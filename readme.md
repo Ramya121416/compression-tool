@@ -28,6 +28,8 @@ Final Tree: A full Huffman tree with root weight 100.
 
 ![image](https://github.com/user-attachments/assets/38518446-5663-4748-9ec4-44a08c08fdf1)
 
+left child is assigned with  "0" and  right chils is assigned with "1"
+
 ![image](https://github.com/user-attachments/assets/5ed4d5af-8959-4c5f-86f8-62b0792677ee)
 
 
