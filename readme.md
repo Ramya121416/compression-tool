@@ -25,14 +25,10 @@ New Queue:  [A(45), (C+B+D+F+E)(55)]
 
 Step 5: Combine A(45) and (C+B+D+F+E)(55) into a root node with weight 100.
 Final Tree: A full Huffman tree with root weight 100.
-        (100)
-       /    \
-    (45)     (55)
-   A        /    \
-          (25)   (30)
-         /   \   /   \
-      B(13) C(12) D(16) (14)
-                         /  \
-                      E(9) F(5)
+
+![image](https://github.com/user-attachments/assets/38518446-5663-4748-9ec4-44a08c08fdf1)
+
+
+       
 
       
